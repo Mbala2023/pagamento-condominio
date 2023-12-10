@@ -66,6 +66,12 @@ json: {"nome":"Digite nome",
   Metodo Get: Buscar 
   url: _base_url/Pagamento
 
+  e) Folder: Verificar Pagamento
+
+  Método Get: Verificar
+
+  url: _base_url/Verificar
+
   
 
 
