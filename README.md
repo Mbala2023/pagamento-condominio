@@ -3,7 +3,9 @@
 
 Linguagem: TypeScript/JavaScript
 
-Frameworks: express.js, nodemailer, knex, sqlite3, nodemon, node_modules, cors, socket.io,
+Ambiente de desenvolvimento: Visual Studio Code
+
+Frameworks: node js, react, express.js, nodemailer, knex, sqlite3, nodemon, node_modules, cors, socket.io,
 
 Método de Rodagem:
 
