@@ -1,10 +1,9 @@
 # pagamento-condominio
 
-Linguagens/Frameworks:
 
 Linguagem: TypeScript/JavaScript
 
-Framework: express.js, nodemailer, knex, sqlite3, nodemon, node_modules, cors, socket.io,
+Frameworks: express.js, nodemailer, knex, sqlite3, nodemon, node_modules, cors, socket.io,
 
 Método de Rodagem:
 
